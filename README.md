@@ -19,7 +19,7 @@
   -- Main floder is named as 19075021-Bhukya-Rahul-Nayak-lab-task-7. It contains ipynb file and readme file and model limk file.
   
 ## Results :
-
+  -- The accuracy of the both the dictionaries are 62.17% and 38.4%
 
 
 ## Conclusion :
